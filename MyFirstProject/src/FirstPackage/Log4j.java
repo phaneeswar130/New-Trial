@@ -9,7 +9,7 @@ public class Log4j {
 	Logger logger;
 	
 		
-	
+	//testinf git
 	@Test
 	public void test1(){
 		
